@@ -1,0 +1,6 @@
+*.pyc
+data/
+*.db
+.DS_STORE
+*.csh
+*.sh
